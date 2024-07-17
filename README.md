@@ -13,4 +13,7 @@ Preferred contact method is ```zednan863@gmail.com```
 - A ticketing platform that aims to solve the problem of a stressful & unfair ticket purchasing experience.
 - [Demo Video](https://drive.google.com/file/d/14bPCz4vJZHSB_YPJI67C0TcU6sLctUjq/view?usp=sharing) 
 - Built in React JS and Node.js with supporting Python files to generate a waiting queue.
-
+2. ##### 😷 [COVID-WATCH](https://github.com/S0ph13Ann3/COVID-WATCH/tree/main)
+  - A website that aims to inform users on the recent data of COVID-19 cases across the country, while providing resources on how to stay safe.
+  - Has won 3rd place in the beginners divison at the 2020 [Helix Hackathon](https://www.helixhacks.com/#results)
+3. 
