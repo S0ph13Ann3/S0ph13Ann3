@@ -16,4 +16,7 @@ Preferred contact method is ```zednan863@gmail.com```
 2. ##### 😷 [COVID-WATCH](https://github.com/S0ph13Ann3/COVID-WATCH/tree/main)
   - A website that aims to inform users on the recent data of COVID-19 cases across the country, while providing resources on how to stay safe.
   - Has won 3rd place in the beginners divison at the 2020 [Helix Hackathon](https://www.helixhacks.com/#results)
-3. 
+3. ##### 🐝 [Pollie](https://github.com/S0ph13Ann3/Pollie/tree/main)
+ - An informational site on the growing issues that bees in America are facing.
+ - Utilizes data visualizations, including charts, graphs, and maps, to illustrate the problems impacting bee populations.
+
