@@ -19,4 +19,7 @@ Preferred contact method is ```zednan863@gmail.com```
 3. ##### 🐝 [Pollie](https://github.com/S0ph13Ann3/Pollie/tree/main)
  - An informational site on the growing issues that bees in America are facing.
  - Utilizes data visualizations, including charts, graphs, and maps, to illustrate the problems impacting bee populations.
+4. ##### 🛍️ [Hestia](https://github.com/S0ph13Ann3/Hestia/tree/main)
+ - A platform that promotes small and local business and allows them to share their stories/struggles throughout the COVID-19 pandemic. 
+ - Was featured in the 2020 EntrepreneuHER Makeathon.
 
