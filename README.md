@@ -28,4 +28,10 @@ Preferred contact method is ```zednan863@gmail.com```
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
-
+### 🌐 Web Applications
+1. ##### 🐈 [Cat-Gallery](https://github.com/S0ph13Ann3/Web-Applications/tree/main/Cat-Gallery)
+2. ##### 💸 [2023 Simplified Tax Form](https://github.com/S0ph13Ann3/Web-Applications/tree/main/2023%20Simplified%20Tax%20Form)
+3. ##### ⭕❌ [Tic-Tac-Toe](https://github.com/S0ph13Ann3/Web-Applications/tree/main/Tic-Tac-Toe)
+4. ##### 🐦 [Bird Spotter](https://github.com/S0ph13Ann3/Web-Applications/tree/main/Bird%20Spotter)
+5. ##### 📲 [Twitter Inspired App](https://github.com/S0ph13Ann3/Web-Applications/tree/main/Twitter%20Inspired%20App)
+˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ 
