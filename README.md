@@ -6,7 +6,7 @@ Preferred contact method is ```zednan863@gmail.com```
 
  ♡ [LinkedIn](https://www.linkedin.com/in/sophie-anne-hernandez-19a43b218/) Link: ```https://www.linkedin.com/in/sophie-anne-hernandez-19a43b218```
 
- ♡ [Portfolio](https://sophiehernandez29.wixsite.com/sophie-hernandez/) Link: ```https://sophiehernandez29.wixsite.com/sophie-hernandez```
+ ♡ [Portfolio](https://readymag.website/u3271460784/4605012/) Link: ```https://readymag.website/u3271460784/4605012/```
 
 ### ✨ Projects
 1.  ##### 👩🏻‍💻 [VWAN](https://github.com/S0ph13Ann3/VWAN) {Private Repo - feel free to email me for access}
