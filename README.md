@@ -10,7 +10,7 @@ Preferred contact method is ```zednan863@gmail.com```
 
 ### ✨ Projects
 1.  ##### 👩🏻‍💻 [VWAN](https://github.com/S0ph13Ann3/VWAN) {Private Repo - feel free to email me for access}
-- A Meraki API call that monitors the uplink status of WAN 1 and changes the configuration of NAT rules assigned to WAN 1 to WAN 2 in the event of a failover.
+- A Cisco Meraki API call that monitors the uplink status of WAN 1 and changes the configuration of NAT rules assigned to WAN 1 to WAN 2 in the event of a failover.
 - Final Project for my Network Support Engineer Internship at Cisco Meraki
 2.  ##### 🎟️ [BookTessera](https://github.com/BookTessera/BookTessera) {Private Repo - feel free to email me for access}
 - A ticketing platform that aims to solve the problem of a stressful & unfair ticket purchasing experience.
