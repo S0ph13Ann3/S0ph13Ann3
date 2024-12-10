@@ -38,3 +38,5 @@ Preferred contact method is ```zednan863@gmail.com```
 4. ##### 🐦 [Bird Spotter](https://github.com/S0ph13Ann3/Web-Applications/tree/main/Bird%20Spotter)
 5. ##### 📲 [Twitter Inspired App](https://github.com/S0ph13Ann3/Web-Applications/tree/main/Twitter%20Inspired%20App)
 ˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ 
+### ⚙️ Distributed Systems
+1. ##### HTTP Service
