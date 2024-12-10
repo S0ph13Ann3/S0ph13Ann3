@@ -40,4 +40,4 @@ Preferred contact method is ```zednan863@gmail.com```
 ˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ 
 ### ⚙️ Distributed Systems
 1. ##### [HTTP Service](https://github.com/S0ph13Ann3/Distributed-Systems/tree/main/HTTP%20Service)
-2.
+2. ##### [Key-Value Store](https://github.com/S0ph13Ann3/Distributed-Systems/tree/main/Key-Value%20Store) 
