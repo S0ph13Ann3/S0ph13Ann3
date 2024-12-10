@@ -39,4 +39,5 @@ Preferred contact method is ```zednan863@gmail.com```
 5. ##### 📲 [Twitter Inspired App](https://github.com/S0ph13Ann3/Web-Applications/tree/main/Twitter%20Inspired%20App)
 ˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ ✧ ˚ ༘ ⋆｡˚˚ ༘ ⋆｡˚ 
 ### ⚙️ Distributed Systems
-1. ##### HTTP Service
+1. ##### [HTTP Service](https://github.com/S0ph13Ann3/Distributed-Systems/tree/main/HTTP%20Service)
+2.
