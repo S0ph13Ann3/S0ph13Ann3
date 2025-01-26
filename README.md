@@ -6,7 +6,7 @@ Preferred contact method is ```zednan863@gmail.com```
 
  ♡ [LinkedIn](https://www.linkedin.com/in/sophie-anne-hernandez-19a43b218/) Link: ```https://www.linkedin.com/in/sophie-anne-hernandez-19a43b218```
 
- ♡ [Portfolio](https://readymag.website/u3271460784/4605012/) Link: ```https://readymag.website/u3271460784/4605012/```
+ ♡ [Portfolio](https://readymag.website/u3271460784/4987233/) Link: ```https://readymag.website/u3271460784/4605012/```
 
 ### ✨ Projects
 1. ##### 🤖 [P.A.D.E.N Bot]( https://github.com/pomeloFellow/Paden-SlackBot) {Private Repo - feel free to email me for access}
