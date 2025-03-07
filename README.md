@@ -11,7 +11,7 @@ Preferred contact method is ```zednan863@gmail.com```
 ### ✨ Projects
 1. ##### 🤖 [P.A.D.E.N Bot]( https://github.com/pomeloFellow/Paden-SlackBot) {Private Repo - feel free to email me for access}
 - In collaboration with Brinqa, a cybersecurity company that offers their customers risk management solutions for their digital assets.
-- We worked along side our sponsor, Paden Portillo, a principal Software Engineer at Brinqa who leads groups of engineers and their projects (~7-8 people per team).
+- We worked along side our sponsor, [Paden Portillo](https://www.linkedin.com/in/paden-portillo/), a principal Software Engineer at Brinqa who leads groups of engineers and their projects (~7-8 people per team).
 - For many development teams, they face challenges in managing a high volume of tasks and maintaining clear visibility on project progress.
 - Since teams rely heavily on Slack for daily management, we created the "Herding Cats Bot" aka “PADEN Bot” to automate tasks like standup meetings, pull request tracking, and release updates. This bot keeps teams organized and focused on high-priority goals.
 - [Our Slide Deck](https://docs.google.com/presentation/d/1Q0I9HGyk7g37O_bOXqk33a_oBEzbYibW/edit?usp=sharing&ouid=110001840911440840845&rtpof=true&sd=true)/[Our Poster](https://docs.google.com/presentation/d/1KynPN7_2YtbN1lk68BN4X06iyDHSEPPxDcDjbTBd8Qk/edit?usp=sharing)
