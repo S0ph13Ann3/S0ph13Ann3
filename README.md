@@ -10,7 +10,7 @@ Preferred contact method is ```zednan863@gmail.com```
 
 ### ✨ Projects
 1. ##### 📲 [Quilly](https://www.myquilly.com/)
-- A platform helping college girls fight loneliness through a cohort-based model that leverages AI to manage and encourage young people to learn how to support each other in the modern age.
+- An app that helps college women find their people through virtual houses. Think of it as your built-in support system—whether you’re looking for last-minute plans, a study buddy, or a group to grab dinner with.
 - My role on the team was a UX designer where I:
   -   Developed 20+ high-fidelity prototypes of core app features present in Quilly’s successful beta launch.
   -   Directed design team meetings to define core app features and shape product visions.
