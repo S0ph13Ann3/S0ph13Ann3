@@ -27,7 +27,7 @@ Preferred contact method is ```zednan863@gmail.com```
 - Final Project for my Network Support Engineer Internship at Cisco Meraki
 4. ##### 🎟️ [BookTessera](https://github.com/BookTessera/BookTessera) {Private Repo - feel free to email me for access}
 - A ticketing platform that aims to solve the problem of a stressful & unfair ticket purchasing experience.
-- [Demo Video](https://drive.google.com/file/d/14bPCz4vJZHSB_YPJI67C0TcU6sLctUjq/view?usp=sharing) 
+- [Demo Video](https://drive.google.com/file/d/17Yqf7Ckgf1-TyvWyInkws758qB9xwey4/view?usp=sharing) 
 - Built in React JS and Node.js with supporting Python files to generate a waiting queue.
 5. ##### 😷 [COVID-WATCH](https://github.com/S0ph13Ann3/COVID-WATCH/tree/main)
   - A website that aims to inform users on the recent data of COVID-19 cases across the country, while providing resources on how to stay safe.
