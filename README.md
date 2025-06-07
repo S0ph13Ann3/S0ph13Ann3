@@ -12,7 +12,7 @@ Preferred contact method is ```zednan863@gmail.com```
 1. ##### 💡 [VR Light Pattern Decipher](https://github.com/S0ph13Ann3/VR_Light_Pattern) {Private Repo - feel free to email me for access}
 -  A chrome extension designed to assist Google Data Center technicians by instantly deciphering machine VR light patterns to guide initial troubleshooting steps.
 -  Users input a pattern by typing or clicking the interactive circles to see probable issues and recommended actions from a built-in solution database.
--  Interactive & Informative UI: Features two-way syncing between the text fields and visual lights, plus Help and Learn More modals with a visual key and hardware diagrams.
+-  Features two-way syncing between the text fields and visual lights, plus Help and Learn More modals with a visual key and hardware diagrams.
 2. ##### 📲 [Quilly](https://www.myquilly.com/)
 - An app that helps college women find their people through virtual houses. Think of it as your built-in support system—whether you’re looking for last-minute plans, a study buddy, or a group to grab dinner with.
 - My role on the team was a UX designer where I:
