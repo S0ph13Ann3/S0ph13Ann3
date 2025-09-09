@@ -9,7 +9,7 @@ Preferred contact method is ```zednan863@gmail.com```
  ♡ [Portfolio](https://readymag.website/u3271460784/4987233/) Link: ```https://readymag.website/u3271460784/4987233/```
 
 ### ✨ Projects
-2. ##### 📲 [Quilly](https://www.myquilly.com/)
+1. ##### 📲 [Quilly](https://www.myquilly.com/)
 - An app that helps college women find their people through virtual houses. Think of it as your built-in support system—whether you’re looking for last-minute plans, a study buddy, or a group to grab dinner with.
 - My role on the team was a UX designer where I:
   -   Developed 20+ high-fidelity prototypes of core app features present in Quilly’s successful beta launch.
